@@ -3,11 +3,6 @@
 #include "mock_API_GPIO_HAL.h"
 
 void setUp(void) {
-    // Se ejecuta antes de cada prueba
-}
-
-void tearDown(void) {
-    // Se ejecuta después de cada prueba
 }
 
 void test_MenuIndex_deberia_incrementar_cuando_b4_es_presionado(void) {
